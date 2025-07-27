@@ -1,0 +1,17 @@
+0x6F278 ==> __aeabi_memcpy (import from libanogs)
+0x6F26C ==> __aeabi_memcpy4 (import from libanogs) 
+0x6F5B4 ==> __aeabi_memcpy8 (import from libanogs)
+0xB66DC => ace_rp_queue (String from libanogs)
+0xCB878 ==> ace_worker & ace_worker%d (String from libanogs)
+
+
+////////////////////////////////////////////////////////////
+
+//PlayerAnticheatManager.cpp
+
+sub_2F1E2E0 (libUE4.so string) ARM not thumb
+sub_2F1E2E0 (libUE4.so string) ARM not thumb
+sub_2F1EA08 (libUE4.so string) ARM not thumb
+sub_2F1F1F4 (libUE4.so string) ARM not thumb
+sub_2F1F4B8 (libUE4.so string) ARM not thumb
+sub_2F1F948 (libUE4.so string) ARM not thumb
